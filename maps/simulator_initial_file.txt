@@ -1,0 +1,16 @@
+height: 500
+width: 500
+draw_border: true
+
+players: 1
+
+start_x_coordinate: 50 
+start_y_coordinate: 202 
+start_x_velocity: 0
+start_y_velocity: -3.5
+color_red_value: 0
+color_green_value: 0 
+color_blue_value: 255
+
+shapes: 0
+
