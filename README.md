@@ -203,4 +203,4 @@ Moving shapes in context:
 Thanks to Professor Michael Skalak for guidance on this project, and thanks to Physics 131 Teaching Assistant Hieu Le for introducing me to rotational matrices when I asked him if he had any ideas on how to rotate a segment around a point!
 
 ## See Also ##
-This project is the spiritual successor to the Littleman's World Builder project, a two-dimensional platformer game engine with a Microsoft-Paint-style map maker. Many of the mistakes made on that project informed the design and implementation of the Bouncing Ball project, but the finished product of the former is very different than that of the Bouncing Ball project.
+This project is the spiritual successor to the [Littleman's World Builder](https://github.com/adamcogen/littleman) project, a two-dimensional platformer game engine with a Microsoft-Paint-style map maker. Many of the mistakes made on that project informed the design and implementation of the Bouncing Ball project, but the finished product of the former is very different than that of the Bouncing Ball project.
